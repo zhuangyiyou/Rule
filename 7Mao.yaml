@@ -1,0 +1,13 @@
+# 规则名称: 7猫小说
+# 规则统计: 7
+
+domain_suffix_set:
+  - wtzw.com
+  - adbiding.cn
+  - 52qumao.com
+  - qm989.com
+  - qttunion.com
+  - peplle.cn
+  
+domain_Wildcard_set:
+  - partner.sm.cn
