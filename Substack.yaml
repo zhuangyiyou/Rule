@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-SUFFIX,substack.com
+  - DOMAIN-SUFFIX,substackcdn.com
+  - DOMAIN-SUFFIX,substack-post-media.s3.amazonaws.com
+  - DOMAIN,stream.mux.com
+  - DOMAIN-SUFFIX,fastly.mux.com
