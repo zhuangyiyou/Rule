@@ -1,7 +1,0 @@
-payload:
-  - DOMAIN-SUFFIX,dig.bdurl.net
-  - DOMAIN-WILDCARD,ads*-normal-hl.zijieapi.com
-  - DOMAIN-WILDCARD,tnc*.zijieapi.com
-  - DOMAIN-WILDCARD,*ad-sign.byteimg.com
-  - DOMAIN-WILDCARD,*.umeng.com
-  - DOMAIN-SUFFIX,app-analytics-services.com
