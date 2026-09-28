@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,substack-post-media.s3.amazonaws.com
   - DOMAIN,stream.mux.com
   - DOMAIN-SUFFIX,fastly.mux.com
+  - DOMAIN-SUFFIX,cfcdn.mux.com
