@@ -13,4 +13,4 @@ payload:
   - DOMAIN-SUFFIX,qm989.com
   - DOMAIN-SUFFIX,qttunion.com
   - DOMAIN-SUFFIX,peplle.cn
-  - DOMAIN-WILDCARD,partner.sm.cn
+  - DOMAIN-WILDCARD,*.partner.sm.cn
