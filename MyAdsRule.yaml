@@ -5,3 +5,12 @@ payload:
   - DOMAIN-WILDCARD,*ad-sign.byteimg.com
   - DOMAIN-WILDCARD,*.umeng.com
   - DOMAIN-SUFFIX,app-analytics-services.com
+
+
+  - DOMAIN-SUFFIX,wtzw.com
+  - DOMAIN-SUFFIX,adbiding.cn
+  - DOMAIN-SUFFIX,52qumao.com
+  - DOMAIN-SUFFIX,qm989.com
+  - DOMAIN-SUFFIX,qttunion.com
+  - DOMAIN-SUFFIX,peplle.cn
+  - DOMAIN-WILDCARD,partner.sm.cn
