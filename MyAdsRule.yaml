@@ -82,6 +82,7 @@ payload:
   - DOMAIN,v5-ex-novelapp.fqnovelvod.com
   - DOMAIN,saveu5-normal-hl.zijieapi.com
   - DOMAIN,p3-reading-sign.fqnovelpic.com
+  - DOMAIN,v3-novelapp.ixigua.com
   - DOMAIN,shark-tracer.netease.com
 
   - DOMAIN-KEYWORD,applog
