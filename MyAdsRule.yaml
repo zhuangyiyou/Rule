@@ -76,3 +76,82 @@ payload:
   - DOMAIN-WILDCARD,mon*-misc-lf.fqnovel.com
   - DOMAIN-WILDCARD,mon*-misc.fqnovel.com
   - DOMAIN-WILDCARD,rtlog*-applog*.fqnovel.com
+
+  # ========== 腾讯广告核心 (GDT / QQ 广告) ==========
+  - DOMAIN,ad.qq.com
+  - DOMAIN,ad.browser.qq.com
+  - DOMAIN,ad.qun.qq.com
+  - DOMAIN,ad.weixin.qq.com
+  - DOMAIN,adnet.qq.com
+  - DOMAIN,adping.qq.com
+  - DOMAIN,adpm.app.qq.com
+  - DOMAIN,adsclick.qq.com
+  - DOMAIN,adsfile.qq.com
+  - DOMAIN,adsgroup.qq.com
+  - DOMAIN,adshmct.qq.com
+  - DOMAIN,adshmmsg.qq.com
+  - DOMAIN,adslvfile.qq.com
+  - DOMAIN,adslvseed.qq.com
+  - DOMAIN,adsmind.apdcdn.tc.qq.com
+  - DOMAIN,adsmind.gdtimg.com
+  - DOMAIN,adsmind.tc.qq.com
+  - DOMAIN,adsqqclick.qq.com
+  - DOMAIN,adsrich.qq.com
+  - DOMAIN,adstestview.qq.com
+  - DOMAIN,adstextview.qq.com
+  - DOMAIN,adsview.qq.com
+  - DOMAIN,adsview2.qq.com
+  - DOMAIN,adv.app.qq.com
+  - DOMAIN,adver.qq.com
+  - DOMAIN,adfilter.imtt.qq.com
+  - DOMAIN,gdt.qq.com
+  - DOMAIN,l.qq.com
+  - DOMAIN,e.qq.com
+  - DOMAIN,qzs.qq.com
+
+  # ========== 微信广告 / 推送 ==========
+  - DOMAIN,aedns.weixin.qq.com
+  - DOMAIN,dns.weixin.qq.com
+  - DOMAIN,dns.weixin.qq.com.cn
+  - DOMAIN,badjs.weixinbridge.com
+  - DOMAIN,tpns.qq.com
+  - DOMAIN,wup.imtt.qq.com
+
+  # ========== 腾讯统计 / 日志 / 监控 ==========
+  - DOMAIN,analy.qq.com
+  - DOMAIN,analytics.map.qq.com
+  - DOMAIN,beacon.qq.com
+  - DOMAIN,beacon.cdn.qq.com
+  - DOMAIN,beaconcdn.qq.com
+  - DOMAIN,beacon.tencent.com
+  - DOMAIN,btrace.qq.com
+  - DOMAIN,btrace.video.qq.com
+  - DOMAIN,bugly.qq.com
+  - DOMAIN,android.bugly.tencent.com
+  - DOMAIN,ios.bugly.tencent.com
+  - DOMAIN,log.tbs.qq.com
+  - DOMAIN,logsdk.qq.com
+  - DOMAIN,monitor.qq.com
+  - DOMAIN,monitor.music.qq.com
+  - DOMAIN,bsrv.qq.com
+  - DOMAIN,hq-tracking.qq.com
+  - DOMAIN,isdspeed.qq.com
+  - DOMAIN,mdt.qq.com
+
+  # ========== 腾讯视频 / 其他广告相关 ==========
+  - DOMAIN,info4.video.qq.com
+  - DOMAIN,info6.video.qq.com
+  - DOMAIN,tmeadbak.y.qq.com
+  - DOMAIN,ad.tencentmusic.com
+  - DOMAIN,adcdn.tencentmusic.com
+  - DOMAIN,adclick.tencentmusic.com
+  - DOMAIN,adexpo.tencentmusic.com
+  - DOMAIN,adstats.tencentmusic.com
+  - DOMAIN,ad.hunyuan.tencent.com
+
+  # ========== 通配符 ==========
+  - DOMAIN-WILDCARD,*.gdt.qq.com
+  - DOMAIN-WILDCARD,ad*.qq.com
+  - DOMAIN-WILDCARD,*ad*.qq.com
+  - DOMAIN-WILDCARD,log.tpns.*.tencent.com
+  - DOMAIN-WILDCARD,guid.tpns.*.tencent.com
