@@ -77,6 +77,16 @@ payload:
   - DOMAIN-WILDCARD,mon*-misc.fqnovel.com
   - DOMAIN-WILDCARD,rtlog*-applog*.fqnovel.com
 
+
+  - DOMAIN-KEYWORD,applog
+  - DOMAIN-KEYWORD,pangolin
+  - DOMAIN-SUFFIX,fqnovel.com
+  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,byteimg.com
+  - DOMAIN-SUFFIX,pstatp.com
+  - DOMAIN-WILDCARD,*ad*.fqnovel.com
+  - DOMAIN-WILDCARD,*log*.fqnovel.com
+
   # ========== 腾讯广告核心 (GDT / QQ 广告) ==========
   - DOMAIN,ad.qq.com
   - DOMAIN,ad.browser.qq.com
