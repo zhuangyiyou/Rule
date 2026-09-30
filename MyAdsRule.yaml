@@ -15,48 +15,64 @@ payload:
   - DOMAIN-SUFFIX,peplle.cn
   - DOMAIN-WILDCARD,*.partner.sm.cn
   - DOMAIN-SUFFIX,firebaselogging-pa.googleapis.com
-  - DOMAIN-SUFFIX,ubixioe.com
-  - DOMAIN,tdid.m.qq.com
-  - DOMAIN-SUFFIX,als.baidu.com
-  - DOMAIN-SUFFIX,pos.baidu.com
-  - DOMAIN-KEYWORD,umeng
-  - DOMAIN-SUFFIX,log-auth.zztfly.com
-  - DOMAIN,checkip.amazonaws.com
-  - DOMAIN-KEYWORD,applog.
-  - DOMAIN-SUFFIX,log.zijieapi.com
-  - DOMAIN,abtest-ch.snssdk.com
-  - DOMAIN-SUFFIX,mon.zijieapi.com
-  - DOMAIN-SUFFIX,mssdk.volces.com
-  - DOMAIN-KEYWORD,pangolin-sdk-toutiao
-  - DOMAIN,hc-ssp.sm.cn
-  - DOMAIN-SUFFIX,ugdtimg.com
-  - DOMAIN-KEYWORD,pglstatp-toutiao
-  - DOMAIN-SUFFIX,gdt.qq.com
-  - DOMAIN-SUFFIX,partner.uc.cn
-  - DOMAIN-SUFFIX,e.qq.com
-  - DOMAIN-SUFFIX,1rtb.net
-  - DOMAIN-SUFFIX,bgg.baidu.com
-  - DOMAIN-KEYWORD,pglstatp-toutiao
-  - DOMAIN-SUFFIX,ctobsnssdk.com
-  - DOMAIN-KEYWORD,mobads.baidu.com
-  - DOMAIN-SUFFIX,bugly.qq.com
-  - DOMAIN,opencloud.wostore.cn
-  - DOMAIN-SUFFIX,id6.me
-  - DOMAIN-SUFFIX,cmpassport.com
-  - DOMAIN-SUFFIX,p9-ad-sign.byteimg.com
-  - DOMAIN-SUFFIX,fengkongcloud.com
-  - DOMAIN-SUFFIX,feedback-c.zijieapi.com
-  - DOMAIN-SUFFIX,timon.zijieapi.com
-  - DOMAIN-SUFFIX,goblin.hupu.com
-  - DOMAIN-SUFFIX,braze.com
-  - DOMAIN-SUFFIX,fraudmetrix.cn
-  - DOMAIN,ccdace.hupu.com
-  - DOMAIN-KEYWORD,adsdk
-  - DOMAIN-SUFFIX,log.zijieapi.com
-  - DOMAIN-SUFFIX,log.snssdk.com
-  - DOMAIN-SUFFIX,statsigapi.net
-  - DOMAIN-SUFFIX,api.sprig.com
-  - DOMAIN-KEYWORD,appsflyer
-  - DOMAIN-SUFFIX,amplitude.com
-  - DOMAIN-SUFFIX,notify.bugsnag.com
-  - DOMAIN-SUFFIX,app-measurement.com
+  
+
+
+  # ========== 今日头条 (Toutiao) ==========
+  - DOMAIN,ad.toutiao.com
+  - DOMAIN,d.toutiao.com
+  - DOMAIN,dm-hl.toutiao.com
+  - DOMAIN,dm.toutiao.com
+  - DOMAIN,dsp.toutiao.com
+  - DOMAIN,monsetting.toutiao.com
+  - DOMAIN,nativeapp.toutiao.com
+  - DOMAIN,partner.toutiao.com
+  - DOMAIN,sm.toutiao.com
+  - DOMAIN,reportlog.dftoutiao.com
+  - DOMAIN,sh996.dftoutiao.com
+  - DOMAIN,shzzzz.dftoutiao.com
+  - DOMAIN,log3-normal-hl.toutiaoapi.com
+  - DOMAIN,frontier100-toutiao-lf.fqnovel.com
+
+  # ========== 穿山甲广告 SDK (Pangolin) ==========
+  - DOMAIN,api-access.pangolin-sdk-toutiao2.com
+  - DOMAIN,api-access.pangolin-sdk-toutiao3.com
+  - DOMAIN,api-access.pangolin-sdk-toutiao4.com
+  - DOMAIN,api-access.pangolin-sdk-toutiao5.com
+  - DOMAIN,pangolin-dsp-toutiao-b.com
+  - DOMAIN,pangolin-dsp-toutiao.com
+  - DOMAIN,pangolin-sdk-toutiao-b.com
+  - DOMAIN,pangolin-sdk-toutiao.com
+  - DOMAIN,pangolin-sdk-toutiao1.com
+  - DOMAIN,panplayable-toutiao-b.com
+  - DOMAIN,panplayable-toutiao.com
+  - DOMAIN,pglstatp-sdk-toutiao.com
+  - DOMAIN,pglstatp-snssdk-toutiao.com
+  - DOMAIN,pglstatp-toutiao-b.com
+  - DOMAIN,pglstatp-toutiao.com
+  - DOMAIN-WILDCARD,pangolin-sdk-toutiao*.com
+  - DOMAIN-WILDCARD,api-access.pangolin-sdk-toutiao*
+  - DOMAIN-WILDCARD,log*-normal-lq.toutiaoapi.com
+  - DOMAIN-WILDCARD,log*-normal-hl.toutiaoapi.com
+
+  # ========== 微信 (WeChat) ==========
+  - DOMAIN,aedns.weixin.qq.com
+  - DOMAIN,ad.weixin.qq.com
+  - DOMAIN,dns.weixin.qq.com
+  - DOMAIN,dns.weixin.qq.com.cn
+  - DOMAIN,badjs.weixinbridge.com
+
+  # ========== 番茄小说 (Fanqie Novel) ==========
+  - DOMAIN,log3-applog-hl.fqnovel.com
+  - DOMAIN,log3-applog.fqnovel.com
+  - DOMAIN,log5-applog-hl.fqnovel.com
+  - DOMAIN,log5-applog.fqnovel.com
+  - DOMAIN,rtlog3-applog-hl.fqnovel.com
+  - DOMAIN,rtlog3-applog.fqnovel.com
+  - DOMAIN,rtlog5-applog-hl.fqnovel.com
+  - DOMAIN,rtlog5-applog.fqnovel.com
+  - DOMAIN,mon11-misc-lq.fqnovel.com
+  - DOMAIN-WILDCARD,*-applog.fqnovel.com
+  - DOMAIN-WILDCARD,mon*-misc-lf.fqnovel.com
+  - DOMAIN-WILDCARD,mon*-misc.fqnovel.com
+  - DOMAIN-WILDCARD,rtlog*-applog*.fqnovel.com
