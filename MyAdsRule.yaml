@@ -76,7 +76,7 @@ payload:
   - DOMAIN-WILDCARD,mon*-misc-lf.fqnovel.com
   - DOMAIN-WILDCARD,mon*-misc.fqnovel.com
   - DOMAIN-WILDCARD,rtlog*-applog*.fqnovel.com
-
+  - DOMAIN,v26-novelapp.fqnovelvod.com
   - DOMAIN,shark-tracer.netease.com
 
   - DOMAIN-KEYWORD,applog
