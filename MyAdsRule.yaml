@@ -79,6 +79,7 @@ payload:
   - DOMAIN-WILDCARD,*ad-sign.byteimg.com.queniusy.com
   - DOMAIN,v26-novelapp.fqnovelvod.com
   - DOMAIN,v95-aw-novelapp.fqnovelvod.com
+  - DOMAIN,v5-ex-novelapp.fqnovelvod.com
   - DOMAIN,shark-tracer.netease.com
 
   - DOMAIN-KEYWORD,applog
