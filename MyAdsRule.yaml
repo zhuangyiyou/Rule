@@ -80,11 +80,12 @@ payload:
   - DOMAIN,v26-novelapp.fqnovelvod.com
   - DOMAIN,v95-aw-novelapp.fqnovelvod.com
   - DOMAIN,v5-ex-novelapp.fqnovelvod.com
+  - DOMAIN,saveu5-normal-hl.zijieapi.com
   - DOMAIN,shark-tracer.netease.com
 
   - DOMAIN-KEYWORD,applog
   - DOMAIN-KEYWORD,pangolin
-  - DOMAIN-SUFFIX,fqnovel.com
+  - DOMAIN-SUFFIX,fqnovelvod.com
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,byteimg.com
   - DOMAIN-SUFFIX,pstatp.com
