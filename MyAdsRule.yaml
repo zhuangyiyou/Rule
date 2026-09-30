@@ -90,8 +90,9 @@ payload:
   - DOMAIN-KEYWORD,applog
   - DOMAIN-KEYWORD,pangolin
   - DOMAIN-KEYWORD,fqnovelpic
+  - DOMAIN-KEYWORD,fqnovel
   - DOMAIN-SUFFIX,fqnovelvod.com
-  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-KEYWORD,snssdk
   - DOMAIN-SUFFIX,byteimg.com
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-WILDCARD,*ad*.fqnovel.com
