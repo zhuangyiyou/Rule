@@ -85,6 +85,7 @@ payload:
   - DOMAIN,v3-novelapp.ixigua.com
   - DOMAIN,shark-tracer.netease.com
   - DOMAIN-WILDCARD,frontier*.fqnovel.com
+  - DOMAIN,lf-dy-gr-sourcecdn.bytegecko.com
 
   - DOMAIN-KEYWORD,applog
   - DOMAIN-KEYWORD,pangolin
