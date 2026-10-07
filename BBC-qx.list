@@ -1,3 +1,7 @@
+DOMAIN,saveu5-normal-hl.zijieapi.com
+DOMAIN-WILDCARD,*applog-hl.fqnovel.com
+DOMAIN-KEYWORD,snssdk
+DOMAIN-WILDCARD,api*-normal-sinfonlineb.fqnovel.com
 DOMAIN-SUFFIX,dig.bdurl.net
 DOMAIN-WILDCARD,ads*-normal-hl.zijieapi.com
 DOMAIN-WILDCARD,tnc*.zijieapi.com
