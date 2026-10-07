@@ -1,10 +1,17 @@
-host, apd-pcdnwxlogin.teg.tencent-cloud.net
-host, ads5-normal-hl.zijieapi.com
-host, frontier100-toutiao-hl.fqnovel.com
-host, ca.iadsdk.apple.com
-host, ads3-normal-hl.zijieapi.com
-host, feedback-c.zijieapi.com
-host, mon11-misc-hl.fqnovel.com
-
-host-suffix, timon.zijieapi.com
-host-suffix, vcs.zijieapi.com
+payload:
+  - DOMAIN-SUFFIX,dig.bdurl.net
+  - DOMAIN-WILDCARD,ads*-normal-hl.zijieapi.com
+  - DOMAIN-WILDCARD,tnc*.zijieapi.com
+  - DOMAIN-WILDCARD,*ad-sign.byteimg.com
+  - DOMAIN-WILDCARD,*.umeng.com
+  - DOMAIN-SUFFIX,app-analytics-services.com
+  - DOMAIN-SUFFIX,p3-ad-sign.byteimg.com
+  - DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,mon.zijieapi.com
+  - DOMAIN-SUFFIX,timon.zijieapi.com
+  - DOMAIN-SUFFIX,vcs.zijieapi.com
+  - DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
+  - DOMAIN,frontier100-toutiao-hl.fqnovel.com
+  - DOMAIN,ca.iadsdk.apple.com
+  - DOMAIN,feedback-c.zijieapi.com
+  - DOMAIN,mon11-misc-hl.fqnovel.com
