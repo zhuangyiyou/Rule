@@ -24,6 +24,7 @@ DOMAIN,ads5-normal-hl.zijieapi.com
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,whoami.akamai.net
 DOMAIN,shark-tracer.netease.com
+DOMAIN,mktm.jd.com
 DOMAIN-SUFFIX,jddebug.com
 DOMAIN-SUFFIX,im-x.jd.com
 DOMAIN-SUFFIX,events.mapbox.com
@@ -35,6 +36,7 @@ DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,apmplus.volces.com
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,iadsdk.apple.com
-
-
+DOMAIN-SUFFIX,data.kuiniuca.com
+DOMAIN-SUFFIX,policy.jd.com
+DOMAIN-KEYWORD,adjust.
 
