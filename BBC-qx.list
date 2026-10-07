@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,sentry.io
 DOMAIN-WILDCARD,*novelapp.ixigua*
 DOMAIN-KEYWORD,abtest
 DOMAIN-KEYWORD,bsgslb
