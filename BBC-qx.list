@@ -20,6 +20,7 @@ DOMAIN,mllog.jd.com
 DOMAIN,dig.bdurl.net
 DOMAIN,i.snssdk.com
 DOMAIN,p9-ad-sign.byteimg.com
+DOMAIN,p9-ad-sign.byteimg.com.bsgslb.com
 DOMAIN,ads5-normal-hl.zijieapi.com
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,whoami.akamai.net
@@ -41,4 +42,5 @@ DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,data.kuiniuca.com
 DOMAIN-SUFFIX,policy.jd.com
 DOMAIN-KEYWORD,adjust.
+DOMAIN-KEYWORD,p9-ad-sign.
 
