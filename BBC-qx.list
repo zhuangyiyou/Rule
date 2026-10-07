@@ -1,7 +1,9 @@
 IP-CIDR,36.163.115.179/16
 IP-CIDR,223.113.29.125/16
+IP-CIDR,36.151.22.49/16
 DOMAIN-KEYWORD,abtest
 DOMAIN-KEYWORD,bsgslb
+DOMAIN,polaris5-normal-hl.zijieapi.com
 DOMAIN-WILDCARD,*p3-webcast-sign.douyinpic*
 DOMAIN-WILDCARD,*novelapp.fqnovelvod*
 DOMAIN-WILDCARD,*reading-sign.fqnovelpic*
