@@ -1,5 +1,6 @@
 IP-CIDR,36.163.115.179/16
 IP-CIDR,223.113.29.125/16
+DOMAIN-KEYWORD,abtest
 DOMAIN-WILDCARD,*novelapp.fqnovelvod*
 DOMAIN-WILDCARD,*reading-sign.fqnovelpic*
 DOMAIN,saveu5-normal-hl.zijieapi.com
