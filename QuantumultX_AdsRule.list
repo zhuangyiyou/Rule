@@ -1,40 +1,42 @@
-HOST,v11.toutiaovod.com
-HOST, v96-x.toutiaovod.com
-HOST, v96.toutiaovod.com
-HOST, ad.ddxq.mobi
-HOST, ads3-normal.zijieapi.com
-HOST, frontier100-toutiao-lf.toutiaoapi.com
-HOST, mon11-misc-lf.toutiaoapi.com
-HOST-SUFFIX, kuiniuca.com
-HOST, ads5-normal.zijieapi.com
-HOST, p3-ad-sign.byteimg.com
+
+###七猫####
 HOST, ad-drs.52qumao.com
 HOST, api-adx.52qumao.com
 HOST, a6-remad.qm989.com
 HOST, t-remad.qm989.com
 HOST, ad-drs-ipv6.52qumao.com
-HOST-WILDCARD, ad.qm989.com
-HOST-SUFFIX, 58iclick.com
 HOST, sdk-log.partner.sm.cn
+HOST, adx.roiplusad.com
+HOST, adtrack.qianwen.com
+HOST, advert.58.com
+
+HOST-SUFFIX, 58iclick.com
 HOST-SUFFIX, iggrowth.cn
-HOST-KEYWORD, pangolin
 HOST-SUFFIX, yunxish.com
 HOST-SUFFIX, qingxuntech.cn
-HOST-WILDCARD, *.umengcloud.com
-HOST-WILDCARD, .adbiding.cn
-HOST, adx.roiplusad.com
-HOST-WILDCARD, ad.*qumao.com
-HOST, adtrack.qianwen.com
-HOST-WILDCARD, adx.52qumao.com
-HOST, advert.58.com
 HOST-SUFFIX, adukwai.com
 HOST-SUFFIX, umeng.com
+HOST-WILDCARD, ad.qm989.com
+HOST-WILDCARD, *.umengcloud.com
+HOST-WILDCARD, .adbiding.cn
+HOST-WILDCARD, ad.*qumao.com
+HOST-WILDCARD, adx.52qumao.com
+HOST-KEYWORD, pangolin
+
+###字节、番茄###
 HOST, frontier100-toutiao-hl.fqnovel.com
 HOST, mon11-misc-hl.fqnovel.com
 HOST, shark-tracer.netease.com
 HOST, ads3-normal-hl.zijieapi.com
 HOST, ads5-normal-hl.zijieapi.com
 HOST, p9-ad-sign.byteimg.com
+HOST, ad.ddxq.mobi
+HOST, ads3-normal.zijieapi.com
+HOST, frontier100-toutiao-lf.toutiaoapi.com
+HOST, mon11-misc-lf.toutiaoapi.com
+HOST, ads5-normal.zijieapi.com
+HOST, p3-ad-sign.byteimg.com
 HOST-WILDCARD, tnc.zijieapi.com
 HOST-SUFFIX, chengzijianzhan.com
+HOST-SUFFIX, kuiniuca.com
 HOST, mktm.jd.com
