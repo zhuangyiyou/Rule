@@ -1,0 +1,41 @@
+七猫####
+DOMAIN, ad-drs.52qumao.com
+DOMAIN, api-adx.52qumao.com
+DOMAIN, a6-remad.qm989.com
+DOMAIN, t-remad.qm989.com
+DOMAIN, ad-drs-ipv6.52qumao.com
+DOMAIN, sdk-log.partner.sm.cn
+DOMAIN, adx.roiplusad.com
+DOMAIN, adtrack.qianwen.com
+DOMAIN, advert.58.com
+
+DOMAIN-SUFFIX, 58iclick.com
+DOMAIN-SUFFIX, iggrowth.cn
+DOMAIN-SUFFIX, yunxish.com
+DOMAIN-SUFFIX, qingxuntech.cn
+DOMAIN-SUFFIX, adukwai.com
+DOMAIN-SUFFIX, umeng.com
+DOMAIN-WILDCARD, ad.qm989.com
+DOMAIN-WILDCARD, *.umengcloud.com
+DOMAIN-WILDCARD, .adbiding.cn
+DOMAIN-WILDCARD, ad.*qumao.com
+DOMAIN-WILDCARD, adx.52qumao.com
+DOMAIN-KEYWORD, pangolin
+
+###字节、番茄###
+DOMAIN, frontier100-toutiao-hl.fqnovel.com
+DOMAIN, mon11-misc-hl.fqnovel.com
+DOMAIN, shark-tracer.netease.com
+DOMAIN, ads3-normal-hl.zijieapi.com
+DOMAIN, ads5-normal-hl.zijieapi.com
+DOMAIN, p9-ad-sign.byteimg.com
+DOMAIN, ad.ddxq.mobi
+DOMAIN, ads3-normal.zijieapi.com
+DOMAIN, frontier100-toutiao-lf.toutiaoapi.com
+DOMAIN, mon11-misc-lf.toutiaoapi.com
+DOMAIN, ads5-normal.zijieapi.com
+DOMAIN, p3-ad-sign.byteimg.com
+DOMAIN-WILDCARD, tnc.zijieapi.com
+DOMAIN-SUFFIX, chengzijianzhan.com
+DOMAIN-SUFFIX, kuiniuca.com
+DOMAIN, mktm.jd.com
