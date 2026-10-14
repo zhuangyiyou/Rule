@@ -24,6 +24,10 @@ payload:
   - DOMAIN-WILDCARD,adx.52qumao.com
   - DOMAIN-KEYWORD,pangolin
 
+####2026.10.14####
+###开屏广告###
+  - DOMAIN, drs-ipv6.wtzw.com
+
   # 字节、番茄
   - DOMAIN,frontier100-toutiao-hl.fqnovel.com
   - DOMAIN,mon11-misc-hl.fqnovel.com
