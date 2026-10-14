@@ -39,8 +39,8 @@ domain_suffix_set:
 domain_wildcard_set:
 
 - ad.qm989.com
-- *.umengcloud.com
-- *.adbiding.cn
+- umengcloud.com
+- adbiding.cn
 - ad.*qumao.com
 - adx.52qumao.com
 
