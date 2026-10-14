@@ -1,0 +1,51 @@
+七猫
+
+domain_set:
+
+- ad-drs.52qumao.com
+- api-adx.52qumao.com
+- a6-remad.qm989.com
+- t-remad.qm989.com
+- ad-drs-ipv6.52qumao.com
+- sdk-log.partner.sm.cn
+- adx.roiplusad.com
+- adtrack.qianwen.com
+- advert.58.com
+- frontier100-toutiao-hl.fqnovel.com
+- mon11-misc-hl.fqnovel.com
+- shark-tracer.netease.com
+- ads3-normal-hl.zijieapi.com
+- ads5-normal-hl.zijieapi.com
+- p9-ad-sign.byteimg.com
+- ad.ddxq.mobi
+- ads3-normal.zijieapi.com
+- frontier100-toutiao-lf.toutiaoapi.com
+- mon11-misc-lf.toutiaoapi.com
+- ads5-normal.zijieapi.com
+- p3-ad-sign.byteimg.com
+- mktm.jd.com
+
+domain_suffix_set:
+
+- 58iclick.com
+- iggrowth.cn
+- yunxish.com
+- qingxuntech.cn
+- adukwai.com
+- umeng.com
+- tnc.zijieapi.com
+- chengzijianzhan.com
+- kuiniuca.com
+
+domain_wildcard_set:
+
+- ad.qm989.com
+- *ad.qm989.com
+- *.umengcloud.com
+- *.adbiding.cn
+- ad.*qumao.com
+- adx.52qumao.com
+
+domain_keyword_set:
+
+- pangolin
