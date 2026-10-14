@@ -23,6 +23,10 @@ HOST-WILDCARD, ad.*qumao.com
 HOST-WILDCARD, adx.52qumao.com
 HOST-KEYWORD, pangolin
 
+####2026.10.14####
+###开屏广告###
+host, drs-ipv6.wtzw.com
+
 ###字节、番茄###
 HOST, frontier100-toutiao-hl.fqnovel.com
 HOST, mon11-misc-hl.fqnovel.com
