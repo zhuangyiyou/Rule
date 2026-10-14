@@ -1,5 +1,5 @@
 
-domain_set:
+payload:
 
 - ad-drs.52qumao.com
 - api-adx.52qumao.com
@@ -24,7 +24,6 @@ domain_set:
 - p3-ad-sign.byteimg.com
 - mktm.jd.com
 
-domain_suffix_set:
 
 - 58iclick.com
 - iggrowth.cn
@@ -36,14 +35,10 @@ domain_suffix_set:
 - chengzijianzhan.com
 - kuiniuca.com
 
-domain_wildcard_set:
-
 - ad.qm989.com
 - umengcloud.com
 - adbiding.cn
 - ad.*qumao.com
 - adx.52qumao.com
-
-domain_keyword_set:
 
 - pangolin
