@@ -1,6 +1,5 @@
-
 payload:
-
+# 七猫
 - ad-drs.52qumao.com
 - api-adx.52qumao.com
 - a6-remad.qm989.com
@@ -10,6 +9,20 @@ payload:
 - adx.roiplusad.com
 - adtrack.qianwen.com
 - advert.58.com
+- +.58iclick.com
+- +.iggrowth.cn
+- +.yunxish.com
+- +.qingxuntech.cn
+- +.adukwai.com
+- +.umeng.com
+- ad.qm989.com
+- +.umengcloud.com
+- +.adbiding.cn
+- ad.*qumao.com
+- adx.52qumao.com
+- pangolin
+
+# 字节、番茄
 - frontier100-toutiao-hl.fqnovel.com
 - mon11-misc-hl.fqnovel.com
 - shark-tracer.netease.com
@@ -22,23 +35,7 @@ payload:
 - mon11-misc-lf.toutiaoapi.com
 - ads5-normal.zijieapi.com
 - p3-ad-sign.byteimg.com
+- +.tnc.zijieapi.com
+- +.chengzijianzhan.com
+- +.kuiniuca.com
 - mktm.jd.com
-
-
-- 58iclick.com
-- iggrowth.cn
-- yunxish.com
-- qingxuntech.cn
-- adukwai.com
-- umeng.com
-- tnc.zijieapi.com
-- chengzijianzhan.com
-- kuiniuca.com
-
-- ad.qm989.com
-- umengcloud.com
-- adbiding.cn
-- ad.*qumao.com
-- adx.52qumao.com
-
-- pangolin
