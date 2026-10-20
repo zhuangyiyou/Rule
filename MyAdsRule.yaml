@@ -45,3 +45,6 @@ payload:
   - DOMAIN-SUFFIX,chengzijianzhan.com
   - DOMAIN-SUFFIX,kuiniuca.com
   - DOMAIN,mktm.jd.com
+
+###其他补充###
+  - DOMAIN,ads-api.x.com
