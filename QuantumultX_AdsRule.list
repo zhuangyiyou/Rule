@@ -44,3 +44,21 @@ HOST-WILDCARD, tnc.zijieapi.com
 HOST-SUFFIX, chengzijianzhan.com
 HOST-SUFFIX, kuiniuca.com
 HOST, mktm.jd.com
+
+
+####2026.10.21#####
+HOST-SUFFIX,sdk.1rtb.net
+HOST-SUFFIX,abtest-ch.snssdk.com
+HOST-SUFFIX,log-auth.zztfly.com
+HOST-SUFFIX,klink.volceapplog.com
+HOST-SUFFIX,gdt.qq.com
+HOST-SUFFIX,onekey1.cmpassport.com
+HOST-SUFFIX,id6.me
+HOST-SUFFIX,opencloud.wostore.cn
+HOST-SUFFIX,bgg.baidu.com
+HOST-SUFFIX,toblog.ctobsnssdk.com
+HOST-SUFFIX,hc-ssp.sm.cn
+HOST-SUFFIX,cdn-new-ad.wtzw.com
+HOST-SUFFIX,ads5-normal.zijieapi.com
+HOST-WILDCARD,*mobads*
+HOST-SUFFIX,mobads-logs.e.shifen.com
