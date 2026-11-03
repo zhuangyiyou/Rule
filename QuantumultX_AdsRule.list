@@ -62,3 +62,10 @@ HOST-SUFFIX,cdn-new-ad.wtzw.com
 HOST-SUFFIX,ads5-normal.zijieapi.com
 HOST-WILDCARD,*mobads*
 HOST-SUFFIX,mobads-logs.e.shifen.com
+
+HOST,adx.ys7.com
+HOST,ad-api.adn-plus.com.cn
+HOST,h-adashx-hk.ut.hzshudian.com
+HOST,adashx.ut.hzshudian.com
+HOST,h-adashx.ut.hzshudian.com
+HOST-SUFFIX,cddp-track.aligames.com
