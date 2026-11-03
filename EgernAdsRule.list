@@ -61,3 +61,10 @@ DOMAIN-SUFFIX,cdn-new-ad.wtzw.com
 DOMAIN-SUFFIX,ads5-normal.zijieapi.com
 DOMAIN-WILDCARD,*mobads*
 DOMAIN-SUFFIX,mobads-logs.e.shifen.com
+
+DOMAIN,adx.ys7.com
+DOMAIN,ad-api.adn-plus.com.cn
+DOMAIN,h-adashx-hk.ut.hzshudian.com
+DOMAIN,adashx.ut.hzshudian.com
+DOMAIN,h-adashx.ut.hzshudian.com
+DOMAIN-SUFFIX,cddp-track.aligames.com
