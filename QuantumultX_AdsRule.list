@@ -45,6 +45,20 @@ HOST-SUFFIX, chengzijianzhan.com
 HOST-SUFFIX, kuiniuca.com
 HOST, mktm.jd.com
 
+#红果核心广告拦截
+HOST-SUFFIX, hongguoapp.com
+HOST-SUFFIX, hongguosdk.com
+HOST-KEYWORD, hongguo.ad
+#穿山甲与广告联盟
+HOST-SUFFIX, pangolin-sdk-toutiao.com
+HOST-SUFFIX, pglstatp-toutiao.com
+HOST-SUFFIX, ad.pangle.cn
+HOST-SUFFIX, ad.pangolin.cn
+HOST-KEYWORD, ad-union-sdk
+#字节系广告与配置兜底
+HOST-KEYWORD, be-pack
+HOST-KEYWORD, tnc.snssdk, REJECT
+
 
 ####2026.10.21#####
 HOST-SUFFIX,sdk.1rtb.net
