@@ -45,6 +45,32 @@ HOST-SUFFIX, chengzijianzhan.com
 HOST-SUFFIX, kuiniuca.com
 HOST, mktm.jd.com
 
+# > 今日头条
+# hostname = p*.pstatp.com
+host-KEYWORD,clk.gentags.net
+host-KEYWORD,dm.pstatp.com
+host-KEYWORD,dm.bytedance.com
+host-KEYWORD,uop.umeng.com
+host-KEYWORD,m.suning.com
+host-KEYWORD,adshare.toutiao.com
+host-KEYWORD,tunion-api.m.taobao.com
+host-KEYWORD,s1.pstatp.com
+host-KEYWORD,s2.pstatp.com
+host-KEYWORD,s3.pstatp.com
+host-KEYWORD,a3.pstatp.com
+host-KEYWORD,a3.bytecdn.cn
+host-suffix, ad.toutiao.com
+host-suffix, dm.toutiao.com
+host-suffix, dsp.toutiao.com
+host-suffix, nativeapp.toutiao.com
+host-suffix, partner.toutiao.com
+host-suffix, track.toutiao.com
+host-suffix, dm.pstatp.com
+host-suffix, pb3.pstatp.com
+host-suffix, s3a.pstatp.com
+
+
+
 #红果核心广告拦截
 HOST-SUFFIX, hongguoapp.com
 HOST-SUFFIX, hongguosdk.com
